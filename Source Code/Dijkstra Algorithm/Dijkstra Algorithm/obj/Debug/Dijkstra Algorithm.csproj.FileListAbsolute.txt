@@ -1,0 +1,7 @@
+C:\Users\Lewis\source\repos\Dijkstra Algorithm\Dijkstra Algorithm\bin\Debug\Dijkstra Algorithm.exe.config
+C:\Users\Lewis\source\repos\Dijkstra Algorithm\Dijkstra Algorithm\bin\Debug\Dijkstra Algorithm.exe
+C:\Users\Lewis\source\repos\Dijkstra Algorithm\Dijkstra Algorithm\bin\Debug\Dijkstra Algorithm.pdb
+C:\Users\Lewis\source\repos\Dijkstra Algorithm\Dijkstra Algorithm\obj\Debug\Dijkstra Algorithm.csprojAssemblyReference.cache
+C:\Users\Lewis\source\repos\Dijkstra Algorithm\Dijkstra Algorithm\obj\Debug\Dijkstra Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Lewis\source\repos\Dijkstra Algorithm\Dijkstra Algorithm\obj\Debug\Dijkstra Algorithm.exe
+C:\Users\Lewis\source\repos\Dijkstra Algorithm\Dijkstra Algorithm\obj\Debug\Dijkstra Algorithm.pdb
